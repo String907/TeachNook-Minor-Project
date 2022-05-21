@@ -1,2 +1,2 @@
 # TeachNook-Minor-Project
-Minor Project By technook
+Project By technook
